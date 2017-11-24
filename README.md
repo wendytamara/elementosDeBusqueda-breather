@@ -10,11 +10,15 @@ Los elementos de navegacion de la pagina breather son:
 
 ![global](assets/images/busqueda-global2.png)
 
+
+
 ## **navegacion en linea**
 
 ![facetada](assets/images/busqueda-enLinea.png)
 
 ![facetada](assets/images/busqueda-enLinea2.png)
+
+
 
 
 ## **Busqueda Filtrada**
